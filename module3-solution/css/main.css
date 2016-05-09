@@ -18,6 +18,8 @@ body {
 
 #header-nav a {
   border-bottom: solid 1px #ddd;
+  margin-right: 10px;
+  margin-left: 10px;
 }
 
 #header-nav a:hover {
